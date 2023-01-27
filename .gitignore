@@ -1,0 +1,4 @@
+**/.aptos/
+**/.env
+**/build/
+**/node_modules/
